@@ -24,11 +24,10 @@ parking slot through Android Application.User can pay after completion of parkin
 received. “**ParkIn**” Application relieves the user from the hassle of manually searching and
 waiting for empty slots to park the vehicle.
 
-# Team :
-
-#### Raihanul Alam Hridoy | Student ID: 1505010
-#### Ahnaf Faisal | Student ID: 1505005
-#### Md.Rajibul Islam | Student ID: 1505001
+# Team : "Heisenberg"
+#### Raihanul Alam Hridoy | Student ID: 1505010 | email: raihanul.hridoy100@gmail.com
+#### Ahnaf Faisal | Student ID: 1505005 | email: ahnaffaisalalavi@gmail.com
+#### Md.Rajibul Islam | Student ID: 1505001 | email: 1505001.mri@ugrad.cse.buet.ac.bd
 
 # Installation Guidelines (if applicable) :
 
